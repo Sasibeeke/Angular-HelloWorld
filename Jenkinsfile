@@ -11,7 +11,7 @@ pipeline {
             steps {
                 echo 'COVID-19 Project GitHub Repository Code Checkout'
                 // Get some code from a GitHub repository
-                git 'https://github.com/Sasibeeke/covid-19-app.git'
+                git 'https://github.com/Sasibeeke/Angular-HelloWorld.git'
                 
             }
         }
